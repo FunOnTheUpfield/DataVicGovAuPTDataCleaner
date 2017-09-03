@@ -1,2 +1,2 @@
-# DataVicGovAuTramDataCleaner
-Cleans the Tram Boardings and Alightings at Tram Stops dataset from https://www.data.vic.gov.au/data/dataset/tram-boardings-and-alightings-at-tram-stops-2015
+# DataVicGovAuPTDataCleaner
+A series of Jupyter notebooks that process raw data from Data.Vic.Gov.Au relating to public transport so they can be used for mapping.
