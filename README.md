@@ -1,14 +1,15 @@
 # DataVicGovAuPTDataCleaner
 A series of Jupyter notebooks that process raw data from Data.Vic.Gov.Au relating to public transport so they can be used for mapping.
 
+This github also provides an audit trail to document my assumptions and to ensure the maps are reproducible.
 
 ## Goal 1: A "Mode Agnostic" ranking of Public Transport stops.
-Convert bus, tram and train boarding, alighting and station entry information to a consistent data format, 
-Then map as by colour coded 'Metlink Stop ID' points using qgis. 
+Convert bus, tram and train boarding, alighting and station entry information to a consistent data format,
+Then map as by colour coded 'Metlink Stop ID' points using qgis.
 
 
 ### Tram Boardings and Alightings at Tram Stops
-https://www.data.vic.gov.au/data/dataset/tram-boardings-and-alightings-at-tram-stops-2015 
+https://www.data.vic.gov.au/data/dataset/tram-boardings-and-alightings-at-tram-stops-2015
 Data Coverage period 01/01/2011 to 31/12/2011 (7:00am to 7:00pm weighted observations)
 
 #### Step 1: Download raw tram boarding data, save a local copy in ./raw directory
@@ -31,7 +32,7 @@ https://www.data.vic.gov.au/data/dataset/train-station-entries-2008-09-to-2011-1
 Data Temporal Coverage:	01/07/2008 to 30/06/2012  ('Normal Weekeday' results cover an entire day)
 Does not include a Metlink Stop ID field
 
-### Mapping results: 
+### Mapping results:
 Download Base Public Transport Shape Files
 Available from 'Public Transport a collection of PTV datasets'
 https://www.data.vic.gov.au/data/dataset/public-transport-a-collection-of-ptv-datasets
