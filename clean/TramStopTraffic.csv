@@ -1,4 +1,4 @@
-Metlink_Stop_ID,Route_Number,Route_Name,Direction,Tram_Stop_Name,Stop_Sequence,Tram_Tracker_ID,VicgridX,VicgridY,Boardings,Alightings,DailyUse
+Metlink_Stop_ID,Route_Number,Route_Name,Direction,Tram_Stop_Name,Stop_Sequence,Tram_Tracker_ID,VicgridX,VicgridY,Boardings,Alightings,wk7am7pm
 10311,5,Malvern to Melbourne University,Down,45-Glenferrie Rd/Wattletree Rd (Malvern),0008,1140,2502480.523,2404308.224,43.5826482773,26.8200912476,70.4027395248
 10371,5,Malvern to Melbourne University,Down,44-Duncraig Ave/Wattletree Rd (Armadale),0009,1139,2502207.668,2404352.585,13.4100456238,3.35251140594,16.7625570297
 1083,57,West Maribyrnong to City(Elizabeth/Flinders st),Up,42-Clyde St/Raleigh Rd (Maribyrnong),0007,1342,2491088.237,2414580.621,3.47616958618,3.47616958618,6.95233917236
