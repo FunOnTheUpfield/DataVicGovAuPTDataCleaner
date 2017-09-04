@@ -1,0 +1,3 @@
+# Git Ignore
+.DS_Store
+.ipynb_checkpoints
